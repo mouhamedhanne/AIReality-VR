@@ -16,10 +16,10 @@
 
 ## 📸 Captures d'écran
 
-![Environnement de salle de classe](/classroom-vr.png)  
+![Environnement de salle de classe](/public/classroom-vr.png)  
 _Explorez une salle de classe virtuelle interactive._
 
-![Conversation avec l'IA](/vr-2.png)  
+![Conversation avec l'IA](/public/vr-2.png)  
 _Pratiquez l'anglais avec un personnage piloté par l'IA._
 
 ---
